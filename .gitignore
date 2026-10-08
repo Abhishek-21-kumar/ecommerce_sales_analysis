@@ -1,0 +1,23 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI & Excel temp
+*.pbix.bak
+~$*.xlsx
